@@ -8,5 +8,5 @@
 - HTML/CSS/JavaScrpit
 - Computer Networks
 📫 How to reach me:
-📩: igor.prusinowski01@gmail.com
-💬: www.linkedin.com/in/igor-prusinowski-294a98269
+  📩: igor.prusinowski01@gmail.com
+  💬: www.linkedin.com/in/igor-prusinowski-294a98269
