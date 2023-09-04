@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Sniki-dev/Sniki-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I’m Sniki-dev
+👀 I'm interested in IT and in particular computer networks
+🌱 I’m currently learning:
+- C++
+- Git & GitHub 
+- SQL 
+- Linux & Bash
+- HTML/CSS/JavaScrpit
+- Computer Networks
+📫 How to reach me:
+📩: igor.prusinowski01@gmail.com
+💬: www.linkedin.com/in/igor-prusinowski-294a98269
